@@ -1,0 +1,15 @@
+{
+  "appId": "com.personal.memoryhub",
+  "appName": "Memory Hub",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_memoryhub",
+      "iconColor": "#4F46E5"
+    }
+  }
+}
